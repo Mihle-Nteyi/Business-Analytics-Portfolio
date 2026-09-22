@@ -24,3 +24,7 @@ Speedy Loans wanted to understand what drives a customer's credit risk score to 
 ## Technologies Used
 - Python (Statsmodels)
 - Tableau
+
+## 📊 Visualization
+
+![Regression Scatter Plots](images/Regression_scatter_plots.jpg)
