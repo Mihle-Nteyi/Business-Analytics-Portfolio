@@ -25,3 +25,8 @@ Speedy Loans management wanted to understand what distinguishes approved from de
 
 ## Technologies Used
 - Tableau (Calculated fields, Bar charts, Dual-axis comparison)
+
+
+## 📊 Visualization
+
+![Loan Approval Status](images/Loan_approval_status.jpg)
