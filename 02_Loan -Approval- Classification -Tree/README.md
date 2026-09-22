@@ -23,3 +23,7 @@ Speedy Loans needed a transparent model to help decide whether to approve or den
 ## Technologies Used
 - Python (Scikit-learn)
 - Tableau 
+
+## 📊 Visualization
+
+![Confusion Matrix](images/[confusion_matrix. png])
