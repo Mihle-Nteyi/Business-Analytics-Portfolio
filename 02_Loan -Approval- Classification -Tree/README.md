@@ -26,4 +26,4 @@ Speedy Loans needed a transparent model to help decide whether to approve or den
 
 ## 📊 Visualization
 
-![Confusion Matrix](images/[Confusion_matrix.png])
+![Confusion Matrix](images/Confusion_matrix.png)
