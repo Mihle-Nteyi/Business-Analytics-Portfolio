@@ -27,4 +27,4 @@ Speedy Loans wanted to understand what drives a customer's credit risk score to 
 
 ## 📊 Visualization
 
-![Regression Scatter Plots](images/Regression_scatter_plots.jpg)
+![Regression Scatter Plots](Images/Regression_scatter_plots.jpg)
